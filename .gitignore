@@ -1,0 +1,13 @@
+.vscode
+
+assets
+client-*/
+
+.venv
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.key
+*.pem
